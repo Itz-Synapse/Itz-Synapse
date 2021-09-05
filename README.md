@@ -1,7 +1,7 @@
 
 ## Hey 👋, I'm Synapse! ![](https://komarev.com/ghpvc/?username=Itz-Synapse&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/invite/KnveAuW574)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Synapse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://github.com/Itz-Synapse">
